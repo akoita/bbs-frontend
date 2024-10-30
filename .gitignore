@@ -21,3 +21,98 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+.next/app-build-manifest.json
+.next/build-manifest.json
+.next/fallback-build-manifest.json
+.next/package.json
+.next/react-loadable-manifest.json
+.next/trace
+.next/cache/.rscinfo
+.next/server/app-paths-manifest.json
+.next/server/interception-route-rewrite-manifest.js
+.next/server/middleware-build-manifest.js
+.next/server/middleware-manifest.json
+.next/server/middleware-react-loadable-manifest.js
+.next/server/next-font-manifest.js
+.next/server/next-font-manifest.json
+.next/server/pages-manifest.json
+.next/server/server-reference-manifest.js
+.next/server/server-reference-manifest.json
+.next/server/chunks/ssr/\[root of the server]__2b2a62._.js
+.next/server/chunks/ssr/\[root of the server]__2b2a62._.js.map
+.next/server/chunks/ssr/\[root of the server]__6da706._.js
+.next/server/chunks/ssr/\[root of the server]__6da706._.js.map
+.next/server/chunks/ssr/\[root of the server]__c1642b._.js
+.next/server/chunks/ssr/\[root of the server]__c1642b._.js.map
+.next/server/chunks/ssr/\[turbopack]_runtime.js
+.next/server/chunks/ssr/\[turbopack]_runtime.js.map
+.next/server/chunks/ssr/node_modules_9b9ef4._.js
+.next/server/chunks/ssr/node_modules_9b9ef4._.js.map
+.next/server/chunks/ssr/node_modules_887196._.js
+.next/server/chunks/ssr/node_modules_887196._.js.map
+.next/server/chunks/ssr/src_28ae83._.css
+.next/server/chunks/ssr/src_28ae83._.css.map
+.next/server/chunks/ssr/src_pages_geistmono_730ad40a_module_f42186.css
+.next/server/chunks/ssr/src_pages_geistmono_730ad40a_module_f42186.css.map
+.next/server/chunks/ssr/src_pages_geistsans_baf5865c_module_f42186.css
+.next/server/chunks/ssr/src_pages_geistsans_baf5865c_module_f42186.css.map
+.next/server/chunks/ssr/src_styles_globals_070f83.css
+.next/server/chunks/ssr/src_styles_globals_070f83.css.map
+.next/server/chunks/ssr/src_styles_globals_f42186.css
+.next/server/chunks/ssr/src_styles_globals_f42186.css.map
+.next/server/chunks/ssr/src_styles_Home_module_f42186.css
+.next/server/chunks/ssr/src_styles_Home_module_f42186.css.map
+.next/server/pages/_app.js
+.next/server/pages/_app.js.map
+.next/server/pages/_document.js
+.next/server/pages/_document.js.map
+.next/server/pages/index.js
+.next/server/pages/index.js.map
+.next/server/pages/_app/build-manifest.json
+.next/server/pages/_app/next-font-manifest.json
+.next/server/pages/_app/pages-manifest.json
+.next/server/pages/_app/react-loadable-manifest.json
+.next/server/pages/_document/next-font-manifest.json
+.next/server/pages/_document/pages-manifest.json
+.next/server/pages/_document/react-loadable-manifest.json
+.next/server/pages/index/build-manifest.json
+.next/server/pages/index/next-font-manifest.json
+.next/server/pages/index/pages-manifest.json
+.next/server/pages/index/react-loadable-manifest.json
+.next/static/chunks/\[root of the server]__951f35._.js
+.next/static/chunks/\[root of the server]__951f35._.js.map
+.next/static/chunks/\[root of the server]__a9c8f7._.js
+.next/static/chunks/\[root of the server]__a9c8f7._.js.map
+.next/static/chunks/node_modules_1b7400._.js
+.next/static/chunks/node_modules_1b7400._.js.map
+.next/static/chunks/node_modules_next_c586e7._.js
+.next/static/chunks/node_modules_next_c586e7._.js.map
+.next/static/chunks/node_modules_next_dist_f42e72._.js
+.next/static/chunks/node_modules_next_dist_f42e72._.js.map
+.next/static/chunks/node_modules_react-dom_82bb97._.js
+.next/static/chunks/node_modules_react-dom_82bb97._.js.map
+.next/static/chunks/src_eab723._.css
+.next/static/chunks/src_eab723._.css.map
+.next/static/chunks/src_pages__app_1ffb76._.js
+.next/static/chunks/src_pages__app_1ffb76._.js.map
+.next/static/chunks/src_pages__app_5771e1._.js
+.next/static/chunks/src_pages_geistmono_730ad40a_module_735113.css
+.next/static/chunks/src_pages_geistmono_730ad40a_module_735113.css.map
+.next/static/chunks/src_pages_geistsans_baf5865c_module_735113.css
+.next/static/chunks/src_pages_geistsans_baf5865c_module_735113.css.map
+.next/static/chunks/src_pages_index_7f8411._.js
+.next/static/chunks/src_pages_index_7f8411._.js.map
+.next/static/chunks/src_pages_index_5771e1._.js
+.next/static/chunks/src_styles_globals_473809.css
+.next/static/chunks/src_styles_globals_473809.css.map
+.next/static/chunks/src_styles_globals_735113.css
+.next/static/chunks/src_styles_globals_735113.css.map
+.next/static/chunks/src_styles_Home_module_735113.css
+.next/static/chunks/src_styles_Home_module_735113.css.map
+.next/static/chunks/pages/_app.js
+.next/static/chunks/pages/index.js
+.next/static/development/_buildManifest.js
+.next/static/development/_clientMiddlewareManifest.json
+.next/static/development/_ssgManifest.js
+.next/static/media/GeistMonoVF-s.p.a9159d35.woff
+.next/static/media/GeistVF-s.p.7fe29570.woff
